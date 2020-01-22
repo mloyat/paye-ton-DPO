@@ -15,6 +15,6 @@ Ceci est un dialogue imaginaire entre **Virginie Latour** qui travaille dans un 
 
 **Virginie Latour** *répète et reprend le script* : Il s'agit de **Lorem Ipsum**, notre produit donc est surprenant...
 
-**Moi** : Et pourrais-je savoir comment vous avez eu mon numéro de téléphone svp ? Je le réserver à mes connaissances uniquement.
+**Moi** : Et pourrais-je savoir comment vous avez eu mon numéro de téléphone svp ? Je le réserve à mes connaissances uniquement.
 
 **Virginie Latour** : Oui, il nous a été fourni par notre partenaire **Dolor sit amet**
